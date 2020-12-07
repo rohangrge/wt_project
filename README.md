@@ -10,12 +10,14 @@ Presentation file is included within the project folder on git hub
 
 
 
+To run the code
+1)Start Frontend
+"npm start" on project folder
+2)Start backend
+"nodemon server" on backend folder
 
-
-
-
-
-
+Enable this extension to run the code
+https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino
 
 
 
