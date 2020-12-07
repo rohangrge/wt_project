@@ -1,3 +1,34 @@
+#Music Streaming Website
+This project is on a music streaming website.
+#Project Group Members
+V Sai Akshith(PES2UG19CS440)
+Tejas R(PES2UG19CS429)
+Rohan George(PES2UG19CS910)
+
+Presentation file is included within the project folder on git hub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
